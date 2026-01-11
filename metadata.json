@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Ethiopia Soil Health Advisor",
+  "description": "An expert platform for farmers in Diredawa, Haramaya, and Metta to monitor soil health, get weather updates, and chat with an expert advisor.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
